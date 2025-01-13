@@ -1,0 +1,14 @@
+
+{
+    "model": "logistic",
+    "seed": null,
+    "test_size": 0.2,
+    "learning_rate": 0.01,
+    "max_iters": 1000,
+    "batch_size": 32,
+    "beta_1": 0.99,
+    "beta_2": 0.99,
+    "lambda": 0.01,
+    "patience": 5,
+    "verbose": true
+}

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: comp551-a1
+Version: 0.1.0
+Summary: A minimal Python package for linear and logistic regression models for COMP 551 Assignment 1.
+Author-email: Alexandre St-Aubin <alexandre.st-aubin2@mail.mcgill.ca>
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: matplotlib

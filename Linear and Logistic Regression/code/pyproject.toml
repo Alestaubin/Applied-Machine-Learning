@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "comp551-a1"
+version = "0.1.0"
+description = "A minimal Python package for linear and logistic regression models for COMP 551 Assignment 1."
+authors = [
+    {name = "Alexandre St-Aubin", email = "alexandre.st-aubin2@mail.mcgill.ca"}
+]
+dependencies = [
+    "numpy",
+    "scikit-learn",
+    "pandas",
+    "matplotlib"
+]
